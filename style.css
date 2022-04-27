@@ -61,6 +61,9 @@ section
   width: 100%;
   height: 100vh;
   padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 section img
 {
@@ -74,4 +77,13 @@ section img
 section img#moon
 {
   mix-blend-mode: screen;
+}
+#text
+{
+  position: absolute;
+  color: #fff;
+  white-space: nowrap;
+  font-size: 7.5vw;
+  font-size: 1.5em;
+  z-index: 9;
 }
