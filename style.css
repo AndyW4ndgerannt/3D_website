@@ -91,3 +91,12 @@ section img#mountain
   font-size: 1.5em;
   z-index: 9;
 }
+#btn
+{
+  text-decoration: none;
+  padding: 8px 30px;
+  border-radius: 40px;
+  background: #fff;
+  color: #2b1055;
+  font-size: 1.5em;
+}
