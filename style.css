@@ -1,1 +1,5 @@
-1
+@import url('https://raw.githubusercontent.com/AndyW4ndgerannt/resources/main/css/poppins.css');
+*
+{
+  font-family: 'Poppins', sans-serif;
+}
