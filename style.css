@@ -78,6 +78,10 @@ section img#moon
 {
   mix-blend-mode: screen;
 }
+section img#mountain
+{
+  z-index: 10;
+}
 #text
 {
   position: absolute;
